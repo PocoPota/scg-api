@@ -25,7 +25,7 @@ SAMPLE↓
 |text|表示するコメントを指定|
 
 # APIs Used
-ここで使用したAPIはこちら↓
+ここで使用したAPIはこちら↓  
 https://github.com/PocoPota/apis
 
 # About use
