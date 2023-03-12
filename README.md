@@ -13,7 +13,7 @@ SAMPLE↓
 
 # Output
 画像が返されます.  
-画像形式: png
+画像形式: png  
 サイズ: 横335px, 縦可変
 
 # Parameters
