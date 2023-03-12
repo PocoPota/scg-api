@@ -1,0 +1,2 @@
+# scg-api
+SuperChat GeneratorのAPIです
