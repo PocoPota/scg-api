@@ -24,6 +24,10 @@ SAMPLE↓
 |money|表示する金額を指定. 半角数字で|
 |text|表示するコメントを指定|
 
+# APIs Used
+ここで使用したAPIはこちら↓
+https://github.com/PocoPota/apis
+
 # About use
 このAPIを使用したLINE/Discord botやその他サービスの開発は大歓迎です！  
 サービスを公開した際は是非教えてください！喜びます.
@@ -39,3 +43,4 @@ https://api.scg.pocopota.com/demo
 
 # Others
 何か不具合等がありましたらIssueにお願いします. TwitterのDMやDiscordでも構いません.
+
