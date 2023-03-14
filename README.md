@@ -41,6 +41,11 @@ Web版とは表示が若干異なります.
 以下にこのAPIを簡単に試せるデモページを用意しました.  
 https://api.scg.pocopota.com/demo
 
+# Services
+# scg LINE bot by PocoPota
+LINEでスーパーチャットが作れます.  
+lin.ee/UGLeH2p
+
 # Others
 何か不具合等がありましたらIssueにお願いします. TwitterのDMやDiscordでも構いません.
 
