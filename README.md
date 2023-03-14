@@ -44,7 +44,7 @@ https://api.scg.pocopota.com/demo
 # Services
 ## scg LINE bot by PocoPota
 LINEでスーパーチャットが作れます.  
-lin.ee/UGLeH2p
+https://line.me/R/ti/p/@396ccxef
 
 # Others
 何か不具合等がありましたらIssueにお願いします. TwitterのDMやDiscordでも構いません.
