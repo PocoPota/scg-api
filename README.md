@@ -42,7 +42,7 @@ Web版とは表示が若干異なります.
 https://api.scg.pocopota.com/demo
 
 # Services
-# scg LINE bot by PocoPota
+## scg LINE bot by PocoPota
 LINEでスーパーチャットが作れます.  
 lin.ee/UGLeH2p
 
