@@ -24,7 +24,7 @@ SAMPLE↓
 |money|表示する金額を指定. 半角数字で|
 |text|表示するコメントを指定|
 
-# APIs Used
+# API Used
 ここで使用したAPIはこちら↓  
 https://github.com/PocoPota/apis
 
