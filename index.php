@@ -148,7 +148,7 @@ ImageFilledRectangle($scimage, 0, 56, $width, $height, $bottomColor);
 
 // 各種文字描画
 imagettftext($scimage, 10, 0, 72, 8 + 11, $nameFontColor, $notosansjpFontFile, $name);
-imagettftext($scimage, 11, 0, 72, 8 + 11 + 14 + 5, $moneyFontColor, $notosansjpFontFile, '￥' . number_format($money));
+imagettftext($scimage, 11, 0, 72, 8 + 11 + 14 + 5, $moneyFontColor, $notosansjpFontFile, '￥' . number_format((float)$money));
 
 // 本文描画
 $i = count($textArr) - 1;
